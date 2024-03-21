@@ -1,7 +1,8 @@
-# Business-Insights-360
+## Business-Insights-360
 
-AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+#  Project Overview
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
+AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make informed decisions.
 
-Live Report Link
+
+https://app.powerbi.com/view?r=eyJrIjoiODcwZjFhODktNGMxNy00MDVmLWE3OWUtY2U5ODNjNDI3ZDAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
