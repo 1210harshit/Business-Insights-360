@@ -20,6 +20,27 @@ AtliQ Hardwares is a consumer electronics company expanding rapidly but is not a
 - *Project charter file*
 
 
+**Features**
+- **Finance View**
+:Detailed financial analysis, including revenue, expenses, and profit margins.
+
+- **Sales View**
+:Insights into product and customer performance.
+
+- **Marketing View**
+:Analytics to enhance marketing strategy.
+
+- **Supply Chain View**
+:Optimization metrics for efficient supply chain management.
+
+- **Executive View**
+:Metrics critical for top-level decision-makers.
+
+- **Product View**
+:Comprehensive snapshot of product performance across various key metrics.  
+
+
+
 
 
 
